@@ -12,8 +12,8 @@
 ### Dev Environment
 1. Clone this repo
 2. For the server:
-  a. Go to the **server** folder and run ```npm install``` 
-  b. Run with ```npm run```
+   a. Go to the **server** folder and run ```npm install``` 
+   b. Run with ```npm run```
 3. For the client:
   a. Go to the **client** folder and run ```npm install```
   b. Run with ```npm run dev```
